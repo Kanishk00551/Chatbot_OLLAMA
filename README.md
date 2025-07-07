@@ -1,6 +1,4 @@
-Here’s a professional and informative `README.md` for your GitHub repository [`Chatbot_OLLAMA`](https://github.com/Kanishk00551/Chatbot_OLLAMA):
 
----
 
 # 🧠 Chatbot\_OLLAMA
 
